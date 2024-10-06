@@ -1,0 +1,12 @@
+bank card payment
+card number: 911
+card holder name: ejaz
+expiry date: 9
+CVV: 012
+--------------------------
+bank card payment
+card number: 7797898
+card holder name: dgffg
+expiry date: 1221
+CVV: 2122
+--------------------------
